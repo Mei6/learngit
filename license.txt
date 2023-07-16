@@ -1,0 +1,5 @@
+git status.
+git add.
+git commit -m "hhh".
+git log --pretty=oneline.
+git reflog.
